@@ -1,6 +1,13 @@
 ### Olá, sou o Limber Jhonathan!
 
-![Limber Jhonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=limberjhonathan&show_icons=true&theme=tokyonight)
+<a href="https://github.com/limberjhonathan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limberjhonathan&show_icons=true&theme=omni" />
+</a>
+
+<a href="https://github.com/limberjhonathan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limberjhonathan&layout=compact&theme=omni" />
+</a>
+
 
 Linguagens e ferramentas:
 
