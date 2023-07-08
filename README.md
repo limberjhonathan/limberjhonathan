@@ -8,8 +8,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limberjhonathan&layout=compact&theme=omni" />
 </a>
 
-
-Linguagens e ferramentas:
+<br>
+<h1>Linguagens e ferramentas:</h1>
 
 <div style="display: inline_block"><br>
   <img align='center' alt="Rafa-html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
