@@ -1,11 +1,11 @@
 ### Olá, sou o Limber Jhonathan!
 
 <a href="https://github.com/limberjhonathan">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=limberjhonathan&show_icons=true&theme=omni" />
+    <img height="170em"src="https://github-readme-stats-sigma-five.vercel.app/api?username=limberjhonathan&show_icons=true&theme=omni" />
 </a>
 
 <a href="https://github.com/limberjhonathan">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=limberjhonathan&layout=compact&theme=omni" />
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=limberjhonathan&layout=compact&theme=omni" />
 </a>
 
 <br>
