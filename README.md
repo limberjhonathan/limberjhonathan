@@ -1,4 +1,4 @@
-### Olá, sou o Limber Jhonathan!
+## Olá, sou o Limber Jhonathan!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=&height=120&section=header&color=0A74DA"/>
 
